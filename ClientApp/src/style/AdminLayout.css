@@ -1,0 +1,66 @@
+.header_avatar_pozisiyon {
+    width: 150px;
+    margin-top: 13px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .lang.botton {
+    background-color: #536dfe;
+  }
+  .bottomRight-break {
+    font-size: large;
+    margin-right: 25px;
+    background-color: transparent;
+    color: lightgrey;
+    border: transparent;
+  }
+  .bottomRight-break:hover {
+    margin-right: 25px;
+    background-color: transparent;
+    color: lightgrey;
+    border: transparent;
+  }
+  .header_avatar_color {
+    color: "white";
+  }
+  .header_avatar {
+    /* margin-right: 25px; */
+    margin-left: 10px;
+  }
+  .header_avatar:hover {
+    border-radius: 25px;
+    color: rgb(150, 144, 144);
+    font-size: 25px;
+  }
+  
+  .trigger {
+    font-size: 18px;
+    line-height: 64px;
+    padding: 0 24px;
+    cursor: pointer;
+    transition: color 0.3s;
+  }
+  
+  .layout-header {
+    line-height: 0;
+    padding: 3;
+    background-color: "#001529";
+    color: "white";
+  }
+  
+  .ant-layout-content {
+    min-height: 50rem;
+    background: rgb(255, 255, 255);
+    padding: 15px 20px;
+    height: 100%;
+    /* border-radius: 15px; */
+    background-color: white;
+    /* box-shadow: 0 0px 0px 0 rgb(0 0 0 / 20%), 0 2px 12px 0 rgb(0 0 0 / 17%); */
+    margin-bottom: 24px;
+  }
+  
+  .tabHeaderTitle {
+    font-size: 20px !important;
+  }
+  
